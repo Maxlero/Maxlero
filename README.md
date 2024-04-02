@@ -8,7 +8,19 @@ I am an experienced tech professional who designs and implements complex technol
 
 P.S. You can contact me via mail, follow me, or give me a star (thanks in advance) 🥰
 
----
+<div id="badges">
+  <a href="https://www.linkedin.com/in/maxlero"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="mailto:leroomax@gmail.com"><img alt="gmail" title="my gmail" src="https://custom-icon-badges.demolab.com/badge/-leroomax@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/></a>
+  <a href="https://twitter.com/Maxlero"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+  <a href="https://github.com/Maxlero?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Maxlero?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/Maxlero?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Maxlero?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</div>
+
+<!--   <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a> -->
+
+****
 ### 🧰 My toolbox:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40px" height="40" />&nbsp;
@@ -27,14 +39,10 @@ P.S. You can contact me via mail, follow me, or give me a star (thanks in advanc
 
 ---
 ### :fire: My Stats (public):
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maxlero&theme=vision-friendly-dark&mode=weekly&card_width=895)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maxlero&theme=vision-friendly-dark&mode=weekly&card_width=895)](https://github.com/maxlero)
 
-<a href="https://github.com/maxlero" style="text-decoration:none !important; margin-right: 20 !important;">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=maxlero&show_icons=true&theme=vision-friendly-dark&card_width=320" />
-</a>
-<a href="https://github.com/maxlero">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxlero&layout=compact&theme=vision-friendly-dark&langs_count=8&card_width=320" />
-</a>
+<a href="https://github.com/maxlero" style="text-decoration:none !important; margin-right: 20 !important;"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=maxlero&show_icons=true&theme=vision-friendly-dark&card_width=320" /></a>
+<a href="https://github.com/maxlero"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxlero&layout=compact&theme=vision-friendly-dark&langs_count=8&card_width=320" /></a>
 
 <!--
 **Maxlero/Maxlero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
