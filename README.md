@@ -5,12 +5,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maxlero&theme=vision-friendly-dark&mode=weekly&card_width=895)](https://git.io/streak-stats)
 
 <a href="https://github.com/maxlero" style="text-decoration:none !important; margin-right: 20 !important;">
-<!--   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=maxlero" /> -->
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=maxlero&show_icons=true&theme=vision-friendly-dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=maxlero&show_icons=true&theme=vision-friendly-dark&card_width=320" />
 </a>
-  
 <a href="https://github.com/maxlero">
-<!--   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxlero&layout=compact&langs_count=8&card_width=320" /> -->
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxlero&layout=compact&theme=vision-friendly-dark&langs_count=8&card_width=320" />
 </a>
 
