@@ -6,7 +6,7 @@
 Welcome to my GitHub profile!
 I am an experienced tech professional who designs and implements complex technology solutions tailored to client needs. I collaborate with sales teams, product managers, and clients to develop proposals, provide technical guidance during implementation, and ensure solutions align with strategic objectives. With a strong background in computer science & engineering, I stay updated on industry trends and mentor junior engineers, while continuously improving the company's products and services, leveraging the power of Google Cloud Platform.
 
-P.S. You can contact me via mail, follow me, or give me a star (thanks in advance) 🥰
+P.S. You can contact me via the email, follow me, or give me a star (thanks in advance) 🥰
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/maxlero"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
